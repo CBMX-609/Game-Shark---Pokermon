@@ -11,8 +11,8 @@ Each Joker can be toggled on/off in the mod config options:
 
 | | | |
 |-----|------|-----|
-| Dark Cave |
-| Celadon Game Corner |
+| Dark Cave | Common
+| Celadon Game Corner | Rare
 
 ## UI
 
@@ -20,5 +20,5 @@ Change the start menu background colors:
 
 | | | |
 |-----|------|-----|
-| Poke Ball |
-| Ultra Ball |
+| Poke Ball | Red and white |
+| Ultra Ball | Yellow and white |
