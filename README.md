@@ -1,6 +1,4 @@
-# Game-Shark-Pokermon
-
-# **Game Shark Pack**
+# **Game Shark - Pokermon**
 So fun you'll feel like you're cheating!
 This is an add-on mod for Pokermon - an add-on mod for Balatro.
 
@@ -15,3 +13,12 @@ Each Joker can be toggled on/off in the mod config options:
 |-----|------|-----|
 | Dark Cave |
 | Celadon Game Corner |
+
+## UI
+
+Change the start menu background colors:
+
+| | | |
+|-----|------|-----|
+| Poke Ball |
+| Ultra Ball |
