@@ -1,4 +1,4 @@
-# **Game Shark Pack**
+# **Game Shark - Pokermon**
 This is an add-on mod for Pokermon - an add-on mod for Balatro.
 
 Focusing on non-Pokemon Jokers that expand the scope of gameplay.
