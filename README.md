@@ -24,7 +24,11 @@ Choose the following UI options:
 
 # Special Thanks
 **Sonfive** - Code help (Dark Cave, mod structure)
+
 **Kek** - Code help (Game Corner)
+
 **Maelmc** - Code help (Backgrounds)
+
 **MyDude** - Art help
+
 **InertSteak and Pokermon contributors** - This mod wouldn't exist without them
