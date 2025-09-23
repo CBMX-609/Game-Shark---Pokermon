@@ -25,5 +25,7 @@ Change the start menu background colors:
 
 ## Special Thanks
 **InertSteak and contributors** - Pokermon developers that this mod would not exist without
+
 **Sonfive, Maelmc** - Code help
+
 **MyDude, Catzzadilla** - Art help
