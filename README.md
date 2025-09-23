@@ -3,7 +3,7 @@ So fun you'll feel like you're cheating!
 This is an add-on mod for Pokermon - an add-on mod for Balatro.
 
 Focusing on non-Pokemon Jokers and other features that expand the scope of gameplay.
-One goal is to test concepts to potentially add to the main mod. Please give feedback in the Pokermon discord!
+One goal is to test concepts to potentially add to the main mod. Please give feedback in the Pokermon discord! (fan-additions Forum Channel)
 
 ## Jokers
 
