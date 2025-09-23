@@ -22,3 +22,8 @@ Change the start menu background colors:
 |-----|------|-----|
 | Poke Ball | Red and white |
 | Ultra Ball | Yellow and white |
+
+## Special Thanks
+**InertSteak and contributors** - Pokermon developers that this mod would not exist without
+**Sonfive, Maelmc** - Code help
+**MyDude, Catzzadilla** - Art help
