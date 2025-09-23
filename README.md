@@ -10,5 +10,21 @@ Each Joker can be toggled on/off in the mod config options:
 
 | | | |
 |-----|------|-----|
-| Dark Cave |
-| Celadon Game Corner |
+| Dark Cave | Common |
+| Celadon Game Corner | Rare |
+
+## UI Customization
+
+Choose the following UI options:
+
+| | | |
+|-----|------|-----|
+| Poke Ball | Background color | Red and white |
+| Celadon Game Corner | Background color | Yellow and white |
+
+# Special Thanks
+**Sonfive** - Code help (Dark Cave, mod structure)
+**Kek** - Code help (Game Corner)
+**Maelmc** - Code help (Backgrounds)
+**MyDude** - Art help
+**InertSteak and Pokermon contributors** - This mod wouldn't exist without them
