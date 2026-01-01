@@ -1,5 +1,5 @@
 # **Game Shark - Pokermon**
-This is an add-on mod for Pokermon - an add-on mod for Balatro.
+Pokermon add-on with new "cheaty" Jokers!
 
 Focusing on non-Pokemon Jokers that expand the scope of gameplay.
 One goal is to test concepts to potentially add to the main mod. Please give feedback in the Pokermon discord!
