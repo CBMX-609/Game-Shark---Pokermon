@@ -10,7 +10,7 @@ Each Joker can be toggled on/off in the mod config options:
 
 | | | |
 |-----|------|-----|
-| Dark Cave | Common | Find Uncommons with Flash
+| Dark Cave | Common | Find Uncommons in the dark with "Flash"
 | Celadon Game Corner | Rare | Let's go gambling with 7s
 
 ## UI Customization
